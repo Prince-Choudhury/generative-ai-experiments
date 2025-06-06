@@ -15,7 +15,7 @@ I'm following tutorials, building small projects, and experimenting with tools l
 
 ## 🙏 Credits
 
-Special thanks to **Nitish Sir** and the [CampusX YouTube channel](https://www.youtube.com/c/CampusX) for creating beginner-friendly and practical content on Generative AI.
+Special thanks to **Nitish Sir** and the [CampusX YouTube channel](https://www.youtube.com/@campusx-official) for creating beginner-friendly and practical content on Generative AI.
 
 ---
 
